@@ -19,6 +19,8 @@ github.com/dennwc/btrfs v0.0.0-20230312211831-a1f570bd01a1 h1:ue4Es4Xzz255hWQ7NA
 github.com/dennwc/btrfs v0.0.0-20230312211831-a1f570bd01a1/go.mod h1:MYsOV9Dgsec3FFSOjywi0QK5r6TeBbdWxdrMGtiYXHA=
 github.com/dennwc/ioctl v1.0.0 h1:DsWAAjIxRqNcLn9x6mwfuf2pet3iB7aK90K4tF16rLg=
 github.com/dennwc/ioctl v1.0.0/go.mod h1:ellh2YB5ldny99SBU/VX7Nq0xiZbHphf1DrtHxxjMk0=
+github.com/discordianfish/go-runit v0.0.0-20150630195641-06ad41a06c4a h1:Iipu3JxeqYdbmL8ri/uHbJA2tGq/FRHlkryTm0mnY/E=
+github.com/discordianfish/go-runit v0.0.0-20150630195641-06ad41a06c4a/go.mod h1:A6dsHbpKtDhdDmVLm9KbD9/oIxMIQQv+xZfoI+4sI9w=
 github.com/ema/qdisc v0.0.0-20200603082823-62d0308e3e00 h1:0GHzegkDz/zSrt+Zph1OueNImPdUxoToypnkhhRYTjI=
 github.com/ema/qdisc v0.0.0-20200603082823-62d0308e3e00/go.mod h1:ix4kG2zvdUd8kEKSW0ZTr1XLks0epFpI4j745DXxlNE=
 github.com/go-kit/log v0.2.1 h1:MRVx0/zhvdseW+Gza6N9rVzU/IVzaeE1SFI4raAhmBU=
